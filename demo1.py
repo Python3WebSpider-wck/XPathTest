@@ -1,4 +1,5 @@
 from lxml import etree
+
 text = '''
 <div>
     <ul>

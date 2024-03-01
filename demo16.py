@@ -1,4 +1,5 @@
 from lxml import etree
+
 text = '''
 <li class="li li-first" name="item"><a href="link.html">first item</a></li>
 '''
